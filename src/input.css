@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+   
+    h1{
+        font-family: poppins;
+    }
+
+    html{
+        font-family: poppins;
+    }
+}
